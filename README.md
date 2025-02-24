@@ -10,7 +10,7 @@ This repository contains basic Arduino projects utilizing various sensors. Each 
 
 ### 2. DHT11 Temperature and Humidity Sensor  
 - **Description**: Uses a DHT11 sensor to measure temperature and humidity and displays values on a serial monitor.  
-- **File**: [DHT11 Sensor](Temp/Temp.md)
+- **File**: [DHT11 Sensor](DHT11/DHT11.md)
   
 ### 3. IR Sensor for Object Detection  
 - **Description**: Uses an infrared sensor to detect objects and trigger an LED and buzzer.  
