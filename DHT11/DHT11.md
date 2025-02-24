@@ -8,7 +8,7 @@ This project uses a DHT11 sensor to measure temperature and humidity, displaying
 - Arduino  
 
 ## Circuit Diagram  
-![DHT11 Sensor Circuit](https://github.com/Chintnn/SAM-LAB/blob/main/Temp/TempCircuit.jpg?raw=true)
+![DHT11 Sensor Circuit](https://github.com/Chintnn/SAM-LAB/blob/main/DHT11/DHT11.jpg?raw=true)
 
 ## Working  
 - **Measures Humidity** → Displays humidity percentage.  
